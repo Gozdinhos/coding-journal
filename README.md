@@ -3,6 +3,7 @@
 > Mischief managed! :herb:
 
 3.DAY
+
 "Today i have learned css variables usage, and also day by day i have seen different html tags which are very interesting for me. Today i have seen label tag. I have build a project with WesBos that let you manipulate some values of an image. I decided to move my mini projects to a single repo and keep searching. That's all for today :milky_way: "
 
 2.DAY
