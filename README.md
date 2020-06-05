@@ -2,6 +2,10 @@
 
 > Mischief managed! :herb:
 
+5.DAY
+
+I code along with WesBos to build flex panels. Every project teaches me different coding techniques and perspective. I have to say that this course is really inspiring and useful. :dizzy:
+
 4.DAY
 
 I have got familiar with array methods like reduce, map, filter and refreshed my git practices. Also i have decided to move my all js30 projects in a single repo and today i did it. That's all! :orange_heart:
