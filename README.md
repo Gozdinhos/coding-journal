@@ -2,6 +2,10 @@
 
 > Mischief managed! :herb:
 
+6. DAY
+
+I got familiar with fetch(), then() and regexp() with Type Ahead Project and regexp is totally new for me, but i like it and have some new ideas about it! Also with Array Cardio 2, i learn new array methods, like some(), every(), findIndex() etc.
+
 5.DAY
 
 I code along with WesBos to build flex panels. Every project teaches me different coding techniques and perspective. I have to say that this course is really inspiring and useful. :dizzy:
