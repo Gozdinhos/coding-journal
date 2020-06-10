@@ -2,6 +2,10 @@
 
 > Mischief managed! :herb:
 
+7. DAY
+
+I learn html5 canvas today. Canvas itself, most of the properties and methods are totally new for me. So it was a quite useful project. Additionally, i try to get familiar dev tools and from now on console.table(), console.warn(), console.error() are my favorites.
+
 6. DAY
 
 I got familiar with fetch(), then() and regexp() with Type Ahead Project and regexp is totally new for me, but i like it and have some new ideas about it! Also with Array Cardio 2, i learn new array methods, like some(), every(), findIndex() etc.
