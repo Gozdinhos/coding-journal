@@ -2,6 +2,10 @@
 
 > Mischief managed! :herb:
 
+8.DAY
+
+I learn how i can check the checkboxes when i m holding shift. I used shiftkey and manipulate a flag variable to do this. This project gives me an opinion if i try to build a mailbox something etc.
+
 7. DAY
 
 I learn html5 canvas today. Canvas itself, most of the properties and methods are totally new for me. So it was a quite useful project. Additionally, i try to get familiar dev tools and from now on console.table(), console.warn(), console.error() are my favorites.
