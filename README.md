@@ -2,6 +2,10 @@
 
 > Mischief managed! :herb:
 
+9.DAY
+
+Today's project is a tough one for me. I worked with html5 and made a video player. At the end of the coding along, i tried to add a functional fullscreen button and styled it.
+
 8.DAY
 
 I learn how i can check the checkboxes when i m holding shift. I used shiftkey and manipulate a flag variable to do this. This project gives me an opinion if i try to build a mailbox something etc.
