@@ -2,6 +2,10 @@
 
 > Mischief managed! :herb:
 
+10.DAY
+
+I worked on key sequence detection project today and working on it was fun. Konami code is also fun, i think. I manipulated wesbos's konami code to "mischiefmanaged". When i type this secret word, unicorns appear. I try to work on also codewars for a few days, and today my coding style made me proud.
+
 9.DAY
 
 Today's project is a tough one for me. I worked with html5 and made a video player. At the end of the coding along, i tried to add a functional fullscreen button and styled it.
