@@ -2,6 +2,10 @@
 
 > Mischief managed! :herb:
 
+11.DAY
+
+I built a project with WesBos that allows the images to slide when scrolling.
+
 10.DAY
 
 I worked on key sequence detection project today and working on it was fun. Konami code is also fun, i think. I manipulated wesbos's konami code to "mischiefmanaged". When i type this secret word, unicorns appear. I try to work on also codewars for a few days, and today my coding style made me proud.
