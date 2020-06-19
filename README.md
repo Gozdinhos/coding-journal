@@ -2,6 +2,10 @@
 
 > Mischief managed! :herb:
 
+12.DAY
+
+Copying and trying to change primitive variables, arrays, objects. Practicing with concat(); spread operator, object.assign etc.
+
 11.DAY
 
 I built a project with WesBos that allows the images to slide when scrolling.
