@@ -2,6 +2,15 @@
 
 > Mischief managed! :herb:
 
+14. DAY
+
+Here are the highlights what i have used today with sorting band names project.
+
+replace();
+trim();
+innerHTML with '<li></li>'
+sorting function.
+
 13. DAY
 
 Today i have finished 2 projects. (15-16) Learned about local storage and also searched about session storage and cookies, too. Session storage data is available as long as browser tab is open but localstorage data is available even after browser is closed. I accidently clear all my local storage and learned very well what is it for when i try to log in to all my accounts again. :) Also the tricky math part is the my favorite part of the mouse shadow project.
