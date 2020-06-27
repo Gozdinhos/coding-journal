@@ -2,6 +2,22 @@
 
 > Mischief managed! :herb:
 
+15. DAY
+
+Here are the highlights what i have used today with sorting band names project.
+
+reduce();
+Array.from();
+
+--> That was the most important part.
+const seconds = timeNodes
+.map(node => node.dataset.time)
+.map(timeCode => {
+const [mins, secs] = timeCode.split(':').map(parseFloat);
+return (mins \* 60) + secs;
+})
+.reduce((total, vidSeconds) => total + vidSeconds);
+
 14. DAY
 
 Here are the highlights what i have used today with sorting band names project.
