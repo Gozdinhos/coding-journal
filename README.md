@@ -2,6 +2,10 @@
 
 > Mischief managed! :herb:
 
+16. DAY
+
+webcam fun. // write it later
+
 15. DAY
 
 Here are the highlights what i have used today with sorting band names project.
