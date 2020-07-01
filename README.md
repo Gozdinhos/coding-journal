@@ -2,7 +2,10 @@
 
 > Mischief managed! :herb:
 
-16. DAY
+17. DAY
+    speech detection // write it later
+
+18. DAY
 
 webcam fun. // write it later
 
