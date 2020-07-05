@@ -2,6 +2,9 @@
 
 > Mischief managed! :herb:
 
+18.DAY
+geolocation
+
 17. DAY
     speech detection // write it later
 
